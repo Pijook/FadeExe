@@ -5,3 +5,6 @@ liczba b = a + 5;
 napisz (b);
 liczba c = a + b + 20;
 napisz (c);
+dla ( liczba i = 0; i < 10; i++ ) {
+  napisz (i);
+}

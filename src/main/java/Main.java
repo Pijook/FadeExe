@@ -25,6 +25,10 @@ public class Main {
 
     conversion.put("napisz", "System.out.println");
     conversion.put("liczba", "int");
+    conversion.put("jezeli", "if");
+    conversion.put("dopoki", "while");
+    conversion.put("rob", "do");
+    conversion.put("dla", "for");
 
     while(inputScanner.hasNextLine()){
       String line = inputScanner.nextLine();
