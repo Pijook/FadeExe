@@ -1,0 +1,7 @@
+napisz ("eluwina");
+liczba a = 5;
+napisz (a);
+liczba b = a + 5;
+napisz (b);
+liczba c = a + b + 20;
+napisz (c);
